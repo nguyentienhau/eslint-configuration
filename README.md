@@ -2,9 +2,9 @@
 
 ## Install ESLint
 
-    npm install eslint@8 eslint-plugin-react eslint-plugin-spellcheck --save-dev
+    npm install eslint@8 eslint-plugin-spellcheck eslint-plugin-react --save-dev
 
-## Configuration File
+## Configuration Files
 
     .eslintrc.json
     .eslintignore
